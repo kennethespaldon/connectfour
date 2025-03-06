@@ -1,0 +1,24 @@
+# ninja log v6
+6	313	1732228484169349012	CMakeFiles/connect4.dir/Slot.cpp.o	3b425e5eb8b45200
+2	44	1736980628818641526	build.ninja	f682a435734dbf98
+15	288	1732261252553212681	CMakeFiles/connect4.dir/Model.cpp.o	8d6219378c8213c2
+8	317	1732242094528369633	CMakeFiles/connect4.dir/ColumnView.cpp.o	2e2d68f6d2186c72
+8	515	1734125313409187602	CMakeFiles/connect4.dir/main.cpp.o	405f529af8f8f7e4
+7	382	1733259679653799391	CMakeFiles/connect4.dir/Information.cpp.o	eec227f860ad61bd
+8	360	1733258882451461374	CMakeFiles/connect4.dir/BoardView.cpp.o	1ca2c11ffb19733
+6	450	1733786928727754851	CMakeFiles/connect4.dir/Controller.cpp.o	79d0be31a5608830
+6	303	1732227518171714139	CMakeFiles/connect4.dir/SlotView.cpp.o	c12f9bb3621f3c7f
+516	615	1734125313916862301	connect4	10d36a502a54463a
+8	369	1733259991754012084	CMakeFiles/connect4.dir/StartButton.cpp.o	1464c4ef3e3ad862
+8	391	1733260048968002983	CMakeFiles/connect4.dir/SplashScreen.cpp.o	577cd423c71c590d
+7	363	1736980634101307432	CMakeFiles/connect4.dir/Model.cpp.o	bd18cfc42a67a6d5
+8	408	1736980634101911177	CMakeFiles/connect4.dir/SlotView.cpp.o	c0b5121369c5923d
+7	433	1736980634101609680	CMakeFiles/connect4.dir/BoardView.cpp.o	dda9ea45e856f3ce
+8	459	1736980634102062385	CMakeFiles/connect4.dir/ColumnView.cpp.o	5dd8e4425433b1c1
+7	470	1736980634101455764	CMakeFiles/connect4.dir/Controller.cpp.o	5c06f390610faca
+7	474	1736980634101023059	CMakeFiles/connect4.dir/main.cpp.o	a993beac84525582
+8	477	1736980634102205217	CMakeFiles/connect4.dir/StartButton.cpp.o	5b8b1749f9055c78
+8	496	1736980634101756595	CMakeFiles/connect4.dir/Slot.cpp.o	4afa9d8b260afdf3
+364	697	1736980634457919470	CMakeFiles/connect4.dir/Information.cpp.o	dbe5e8e1535c2627
+408	735	1736980634502495715	CMakeFiles/connect4.dir/SplashScreen.cpp.o	a187fe3c8cd7b37f
+735	766	1736980634829466395	connect4	10d36a502a54463a

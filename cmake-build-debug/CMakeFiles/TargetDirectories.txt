@@ -1,0 +1,3 @@
+/Users/kennethespaldon/CLionProjects/connect4/cmake-build-debug/CMakeFiles/connect4.dir
+/Users/kennethespaldon/CLionProjects/connect4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kennethespaldon/CLionProjects/connect4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
